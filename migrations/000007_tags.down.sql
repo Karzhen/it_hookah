@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS mix_tags;
+DROP TABLE IF EXISTS product_tags;
+DROP TABLE IF EXISTS tags;
+
